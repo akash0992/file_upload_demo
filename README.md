@@ -15,7 +15,7 @@ $ npm install
 now simply test api use app.js file. 
 
 ``` bash
-$ node server.js 
+$ node app.js 
 ```
 Output
 -------
