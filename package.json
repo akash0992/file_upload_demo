@@ -1,0 +1,8 @@
+{
+    "name": "file-uploder",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.7.2",
+        "multiparty": "^3.3.1"
+    }
+}
